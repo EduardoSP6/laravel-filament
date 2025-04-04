@@ -6,4 +6,7 @@ Simple project using Laravel and Filament.
 
 - Translation file: lang\pt_BR.json.
 
-
+![Login](./public/screenshots/login.png)
+![Admin Panel](./public/screenshots/panel.png)
+![Users list](./public/screenshots/users-list.png)
+![Create user](./public/screenshots/create-user.png)
